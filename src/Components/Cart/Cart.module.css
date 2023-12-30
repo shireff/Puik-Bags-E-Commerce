@@ -1,0 +1,36 @@
+.imgItem {
+  max-width: 120px;
+  margin: auto;
+}
+.title {
+  text-transform: capitalize;
+  font-size: 16px;
+}
+td {
+  vertical-align: middle;
+}
+.pro {
+  height: 200px;
+  background-image: url(../breadcrumb_1920x.jpg);
+  background-position: bottom;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pro .proText h1 {
+  font-family: Jost-SemiBold;
+  color: black;
+  font-size: 32px;
+}
+.pro .proText .link2 {
+  font-family: Jost-Regular;
+}
+.pro .proText .link {
+  color: #111111;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+.pro .proText .link:hover {
+  color: #d4a533;
+}

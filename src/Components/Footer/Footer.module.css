@@ -1,0 +1,33 @@
+footer {
+  background-color: #222222;
+}
+footer h3 {
+  color: white;
+  font-size: 16px;
+  margin-bottom: 18px !important;
+}
+footer p {
+  color: #888888;
+  font-size: 15px;
+  margin: 0 !important;
+}
+footer h4 {
+  color: #d4a533;
+  font-size: 27px;
+  cursor: pointer;
+  margin: 10px 0 !important;
+}
+footer li {
+  margin-bottom: 8px;
+}
+footer .fLink {
+  color: #888888;
+  transition: all 0.8s;
+  text-transform: capitalize;
+  text-decoration: none;
+  font-size: 14px;
+}
+footer .fLink:hover {
+  color: #d4a533;
+  text-decoration: underline;
+}

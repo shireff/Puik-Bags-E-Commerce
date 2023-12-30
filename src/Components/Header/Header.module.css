@@ -1,0 +1,35 @@
+header {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 99;
+  padding: 15px 0;
+}
+.header {
+  position: static;
+}
+header img {
+  padding-left: 60px;
+}
+header .linkk {
+  margin: 0 15px;
+  font-size: 17px;
+  color: black;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+header .linkk:hover {
+  color: #d4a533;
+}
+header .headerIcons {
+  padding-right: 60px;
+}
+header .headerIcons li {
+  padding-right: 20px;
+}
+header .headerIcons li i {
+  margin-right: 5px;
+  font-size: 20px;
+  color: #222222;
+}

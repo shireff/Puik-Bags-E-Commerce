@@ -1,0 +1,161 @@
+@font-face {
+  font-family: Jost-SemiBold;
+  src: url(.././../fonts/Jost-SemiBold.ttf);
+}
+@font-face {
+  font-family: Jost-Regular;
+  src: url(.././../fonts/Jost-Regular.ttf);
+}
+@font-face {
+  font-family: Jost-Medium;
+  src: url(.././../fonts/Jost-Medium.ttf);
+}
+body {
+  font-family: "Jost", sans-serif;
+}
+.pro {
+  height: 200px;
+  background-image: url(../breadcrumb_1920x.jpg);
+  background-position: bottom;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pro .proText h1 {
+  font-family: Jost-SemiBold;
+  color: black;
+  font-size: 32px;
+}
+.pro .proText .link2 {
+  font-family: Jost-Regular;
+}
+.pro .proText .link {
+  color: #111111;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+.pro .proText .link:hover {
+  color: #d4a533;
+}
+.shop .product {
+  margin-top: 40px;
+  font-family: Jost-Regular;
+  border-bottom: 1px solid #e5e8ec;
+  padding-bottom: 30px;
+}
+.shop .product h2 {
+  font-size: 18px;
+  font-family: Jost-Medium;
+  margin-bottom: 20px;
+}
+.shop .product .switch {
+  display: block;
+  padding: 3px 0;
+  text-decoration: none;
+  color: #111111;
+  transition: all 0.5s;
+}
+.shop .product .switch:hover {
+  color: #d4a533;
+}
+.shop .product .btn {
+  padding: 12px 30px;
+  width: 100%;
+  text-transform: capitalize;
+  border: 1px solid transparent;
+  background-color: #e5e8ec;
+  margin-bottom: 30px;
+  transition: all 0.5s;
+}
+.shop .product .btn:hover {
+  color: #d4a533;
+}
+.shop .product .dolar {
+  font-family: Jost-Medium;
+}
+.shop .product .formcontrol1 {
+  width: 40%;
+  padding: 6px;
+  margin: 20px 10px;
+  border: 1px solid #e5e8ec;
+}
+.shop .product .bttn {
+  border-radius: 50%;
+  padding: 2px 7px;
+  font-size: 18px;
+  margin: 5px;
+  border: none;
+  background-color: #e5e8ec65;
+}
+.shop .product .bttn .icon {
+  color: rgba(0, 0, 0, 0.8);
+}
+.shop .product .bttn .icon2 {
+  color: #534542;
+}
+.shop .product .bttn .icon3 {
+  color: #532a2d;
+}
+.shop .product .bttn .icon4 {
+  color: #965d24;
+}
+.shop .product .bttn .icon5 {
+  color: #9d5f6f;
+}
+.shop .product .bttn .icon6 {
+  color: #fff;
+}
+.shop .product .bttn .icon7 {
+  color: #e2866d;
+}
+.shop .product .bttn .icon8 {
+  color: #955e61;
+}
+.shop .product .product2 img {
+  max-width: 80px;
+}
+.shop .product .product2 h4 {
+  font-size: 15px;
+}
+.shop .product .product2 p {
+  font-size: 12px;
+}
+.shop .product .imgShop img {
+  max-width: 100%;
+  transition: all 0.5s;
+}
+.shop .product .imgShop {
+  position: relative;
+  overflow: hidden;
+}
+.shop .product .imgShop .over {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+  opacity: 1;
+  z-index: 1;
+}
+.shop .product .imgShop .over .switch {
+  background-color: #fff;
+  position: absolute;
+  bottom: 20px;
+  left: 10%;
+  padding: 10px 0;
+  font-size: 20px;
+  width: 80%;
+  text-align: center;
+}
+.shop .product .imgShop:hover img {
+  transform: scale(1.1);
+}
+.shop .filter {
+  border: 1px solid #e5e8ec;
+  padding: 7px;
+  border-radius: 5px;
+  margin-top: 40px;
+}
+.shop .cards {
+  margin-top: 30px;
+}

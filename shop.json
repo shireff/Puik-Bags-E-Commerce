@@ -1,0 +1,292 @@
+{
+    "kid":[
+        {
+            "id":"1",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/20_fa5958b8-bdb0-4b0a-aded-f5b540871f9f.jpg",
+            "img_url2": "./img/20-1_2934ec9d-a679-4991-9ebb-448df6e0d561.webp" ,
+            "color":"black",
+            "onSale": true,
+            "price" : 78,
+            "onStock": true
+        },
+        {
+            "id":"2",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/12.webp",
+            "img_url2": "./img/12-1.webp" ,
+            "color":"bage",
+            "onSale": true,
+            "price" : 848,
+            "onStock": true
+        },
+        {
+            "id":"3",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/17-1_a8b0308d-c04c-4765-8609-0affa1c1fa54.webp",
+            "img_url2": "./img/17.jpg" ,
+            "color":"bage",
+            "onSale": true,
+            "price" : 69,
+            "onStock": true
+        },
+        {
+            "id":"4",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/18.jpg",
+            "img_url2": "./img/18-1_d814d4bb-be38-4502-9e63-ba49c27155e3.webp" ,
+            "color":"bage",
+            "onSale": true,
+            "price" : 120,
+            "onStock": true
+        },
+        {
+            "id":"5",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/22_d134f15d-2a91-48ba-9c6c-7eb1dd0360f6.webp",
+            "img_url2": "./img/22-1_4ce7e311-7ca7-4286-a5c5-186eae677cbd.jpg" ,
+            "color":"black",
+            "onSale": true,
+            "price" : 120,
+            "onStock": true
+        },
+        {
+            "id":"6",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/21_db6e197c-9aee-4db3-b222-44c45fbf75ee.webp",
+            "img_url2": "./img/21-1_857ddc7a-9800-41c5-b435-63c744b78ae1.webp" ,
+            "color":"bage",
+            "onSale": true,
+            "price" : 230,
+            "onStock": true
+        },
+        {
+            "id":"7",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/10.jpg",
+            "img_url2": "./img/10-1.jpg" ,
+            "color":"red",
+            "onSale": true,
+            "price" : 499,
+            "onStock": true
+        },
+        {
+            "id":"8",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/20_fa5958b8-bdb0-4b0a-aded-f5b540871f9f.jpg",
+            "img_url2": "./img/20-1_2934ec9d-a679-4991-9ebb-448df6e0d561.webp" ,
+            "color":"black",
+            "onSale": true,
+            "price" : 428,
+            "onStock": true
+        }
+    ],
+    "men":[
+        {
+            "id":"9",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/8_0e4ef92b-b8e2-4985-b2ee-825dce928ecd.jpg",
+            "img_url2": "./img/9_764e78e1-3ee0-412c-b12f-6bd096fb0092.webp" ,
+            "color":"white",
+            "onSale": true,
+            "price" : 120,
+            "onStock": true
+        },
+        {
+            "id":"10",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/7_9d21aa03-2ce4-4a57-a077-9d62e18cc407.jpg",
+            "img_url2": "./img/6.jpg" ,
+            "color":"black",
+            "onSale": true,
+            "price" : 140,
+            "onStock": true
+        },
+        {
+            "id":"11",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/4.jpg",
+            "img_url2": "./img/4-1.jpg" ,
+            "color":"black",
+            "onSale": true,
+            "price" : 140,
+            "onStock": true
+        },
+        {
+            "id":"12",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/3.webp",
+            "img_url2": "./img/3-1.webp" ,
+            "color":"bage",
+            "onSale": true,
+            "price" : 830,
+            "onStock": true
+        },
+        {
+            "id":"13",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/2_fe84e9f8-ff65-44e7-a1d2-a1cf5fdbe25f.webp",
+            "img_url2": "./img/2-1_f9386725-2421-4caa-b124-33d9a00e0077.webp" ,
+            "color":"bage",
+            "onSale": true,
+            "price" : 300,
+            "onStock": true
+        },
+        {
+            "id":"14",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/20_fa5958b8-bdb0-4b0a-aded-f5b540871f9f.jpg",
+            "img_url2": "./img/20-1_2934ec9d-a679-4991-9ebb-448df6e0d561.webp",
+            "color":"black",
+            "onSale": true,
+            "price" : 428,
+            "onStock": true
+        },
+        {
+            "id":"15",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/1.jpg",
+            "img_url2": "./img/1-1.jpg" ,
+            "color":"bage",
+            "onSale": true,
+            "price" : 49,
+            "onStock": true
+        },
+        {
+            "id":"16",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/11.jpg",
+            "img_url2": "./img/11-1.jpg" ,
+            "color":"bage",
+            "onSale": true,
+            "price" : 369,
+            "onStock": true
+        }
+    ],
+    "modern":[
+        {
+            "id":"17",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/22_d134f15d-2a91-48ba-9c6c-7eb1dd0360f6.webp",
+            "img_url2": "./img/22-1_4ce7e311-7ca7-4286-a5c5-186eae677cbd.jpg" ,
+            "color":"bage",
+            "onSale": true,
+            "price" : 140,
+            "onStock": true
+        },
+        {
+            "id":"18",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/21_db6e197c-9aee-4db3-b222-44c45fbf75ee.webp",
+            "img_url2": "./img/21-1_857ddc7a-9800-41c5-b435-63c744b78ae1.webp" ,
+            "color":"bage",
+            "onSale": true,
+            "price" : 45,
+            "onStock": true
+        }
+    ],
+    "sprty":[
+        {
+            "id":"19",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/23_3093a5d8-21b4-4a8f-ad2e-05802b0cd56e.jpg",
+            "img_url2": "./img/23-2_5e3ccd9b-bdb0-456e-807d-f1399ac29286.jpg" ,
+            "color":"black",
+            "onSale": true,
+            "price" : 140,
+            "onStock": true
+        },
+        {
+            "id":"20",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/23-1_29c635a8-7e30-45da-bb2d-66a339e43c9c.jpg",
+            "img_url2": "./img/23-2_5e3ccd9b-bdb0-456e-807d-f1399ac29286.jpg" ,
+            "color":"black",
+            "onSale": true,
+            "price" : 140,
+            "onStock": true
+        }
+    ],
+    "vintage":[
+        {
+            "id":"21",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/17-1_a8b0308d-c04c-4765-8609-0affa1c1fa54.webp",
+            "img_url2": "./img/17.jpg" ,
+            "color":"bage",
+            "onSale": true,
+            "price" : 290,
+            "onStock": true
+        },
+        {
+            "id":"22",
+            "title":"Logitech G203 Wired 8000 DPI For PC/Mac",
+            "img_url":"./img/15_0c701408-156c-46db-b8e7-0e2d128e1352.jpg",
+            "img_url2": "./img/15-1.jpg" ,
+            "color":"bage",
+            "onSale": true,
+            "price" : 69,
+            "onStock": true
+        },
+        {
+            "id":"23",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/6.jpg",
+            "img_url2": "./img/6-1.jpg" ,
+            "color":"bage",
+            "onSale": true,
+            "price" : 210,
+            "onStock": true
+        },
+        {
+            "id":"24",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/10.jpg",
+            "img_url2": "./img/10-1.jpg" ,
+            "color":"red",
+            "onSale": true,
+            "price" : 69,
+            "onStock": true
+        },
+        {
+            "id":"25",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/5.jpg",
+            "img_url2": "./img/7_9d21aa03-2ce4-4a57-a077-9d62e18cc407.jpg" ,
+            "color":"black",
+            "onSale": true,
+            "price" : 928,
+            "onStock": true
+        },
+        {
+            "id":"26",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/4.jpg",
+            "img_url2": "./img/4-1.jpg" ,
+            "color":"black",
+            "onSale": true,
+            "price" : 56,
+            "onStock": true
+        },
+        {
+            "id":"27",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/19_aff9a102-1f1c-4eb4-b371-f119a06b50b3.jpg",
+            "img_url2": "./img/19-1.jpg" ,
+            "color":"bage",
+            "onSale": true,
+            "price" : 69,
+            "onStock": true
+        },
+        {
+            "id":"28",
+            "title":"simple stylish women backpack",
+            "img_url":"./img/13.jpg",
+            "img_url2": "./img/13-1.jpg" ,
+            "color":"black",
+            "onSale": true,
+            "price" : 56,
+            "onStock": true
+        }
+    ]
+}

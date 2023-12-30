@@ -1,0 +1,71 @@
+.whome {
+  background-color: #f2f2f6;
+  font-family: Jost-Regular;
+}
+.whome .linkk {
+  text-decoration: none;
+}
+.headText span {
+  color: #d4a533;
+  font-family: Jost-Bold;
+}
+.headText h2 {
+  font-size: 30px;
+  margin: 20px 0 !important;
+}
+.headText p {
+  color: #555555;
+  font-family: Jost-Regular;
+}
+.storee .storeeImg {
+  overflow: hidden;
+  border-radius: 10px;
+}
+.storee .storeeImg:hover img {
+  transform: scale(1.1);
+}
+.storee h3 {
+  color: #d4a533;
+  font-size: 30px;
+}
+
+.storee h5 {
+  font-family: Jost-Medium;
+  font-size: 15px;
+  margin: 15px 0 12px 0 !important;
+}
+.storee p {
+  color: #555555;
+}
+.choose img {
+  height: 400px;
+  margin-bottom: 25px;
+}
+.choose h4 {
+  font-size: 17px;
+  font-family: Jost-Medium;
+  margin-bottom: 15px !important;
+}
+.choose p {
+  color: #555555;
+  font-size: 13px;
+  line-height: 1.9;
+}
+.colu {
+  background-color: #f2f2f6;
+}
+.team img {
+  height: 250px;
+  width: 250px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: auto;
+}
+.team h5 {
+  margin-bottom: 12px !important;
+}
+.team h6 {
+  font-family: Jost-Regular;
+
+  margin-bottom: 12px !important;
+}

@@ -1,0 +1,44 @@
+.header {
+  position: static;
+}
+.whome {
+  background-color: #f2f2f6;
+  font-family: Jost-Regular;
+}
+.whome .linkk {
+  text-decoration: none;
+}
+.infoo h3 {
+  font-size: 22px;
+  margin-bottom: 10px !important;
+}
+.infoo p {
+  font-family: Jost-Regular;
+  color: #555555;
+  font-size: 14px;
+}
+.infoo h6 {
+  font-family: Jost-Medium;
+  font-size: 15px;
+  margin-bottom: 10px !important;
+}
+.infoo i {
+  margin-right: 8px;
+}
+.infoo i:hover {
+  color: #d4a533;
+}
+.infoo .btnmain {
+  background-color: #222222;
+  color: white;
+  font-family: Jost-Regular;
+  transition: all 1s;
+  text-transform: uppercase;
+  padding: 13px 70px;
+  border-radius: 2px;
+  font-size: 13px;
+  margin-top: 20px;
+}
+.infoo .btnmain:hover {
+  background-color: #d4a533;
+}
